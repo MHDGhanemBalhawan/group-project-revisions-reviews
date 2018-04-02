@@ -22,6 +22,18 @@ input {
 	border-radius: 3px;
 	box-shadow: 0 2px 2px rgba(0,0,0,0.1);
 }
+/* my reviews */
+  .my-reviews { 
+	padding: 0.25em 0.5em;
+	border: none;
+	border-radius: 2px;
+	border: 1px solid white;
+	background: #456e5b;
+	color: #fff;
+	text-decoration: none;
+	cursor: pointer;
+	
+}
 
 /* Buttons */
 .button {
